@@ -1,0 +1,11 @@
+.JoinUs-form{
+
+    position: relative;
+}
+
+.JoinUs-form>button{
+  
+ position: absolute;
+ top: 28rem;
+ right: 1rem;
+}
